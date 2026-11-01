@@ -1,4 +1,4 @@
-/* gamepad.js v1.1 - shared game controller support for Peter's Arcade games.
+/* gamepad.js v1.1 - shared game controller support for five8nine games.
    Works with Xbox, PlayStation and Switch Pro controllers (USB or Bluetooth,
    computer or phone) through the standard Gamepad API mapping.
    Gameplay: controller buttons are turned into the same keyboard keys the game
